@@ -1,5 +1,4 @@
 # Site settings
-remote_theme: wowthemesnet/mediumish-theme-jekyll
 title:          occlusion
 description:    "Projects of Kemal Enver"
 url:            "https://www.occlusion.io"
@@ -14,6 +13,7 @@ author:
   email:        kemalenver@gmail.com
 
 # Build settings
+remote_theme: wowthemesnet/mediumish-theme-jekyll
 markdown:       kramdown
 include:
   - _pages
