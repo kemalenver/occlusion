@@ -13,7 +13,6 @@ author:
   email:        kemalenver@gmail.com
 
 # Build settings
-remote_theme: wowthemesnet/mediumish-theme-jekyll
 markdown:       kramdown
 include:
   - _pages
