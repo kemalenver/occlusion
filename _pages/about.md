@@ -1,12 +1,35 @@
 ---
-layout: post
-title: "About"
-author: "Kemal"
-permalink: /about/
+layout: page
+title: Mediumish Template for Jekyll
+permalink: /about
+comments: true
 ---
 
-Occlusion is a place to keep my thoughts and articles relating to software engineering and development in general.  Lately I've been getting back in to 3D graphics - and so occlusion alludes to a 3D rendering technique.
+<div class="row justify-content-between">
+<div class="col-md-8 pr-5">
 
-You can view some of my professional work and CV at [kemalenver.com](https://www.kemalenver.com/)  Feel free to get in touch about anything you see or read here!
+<p>This website is built with Jekyll and Mediumish template for Jekyll. It's for demonstration purposes, no real content can be found. Mediumish template for Jekyll is compatible with Github pages, in fact even this demo is created with Github Pages and hosted with Github.</p>
 
-Thanks for visiting
+<p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/mediumish-jekyll-template.png" alt="jekyll template mediumish" /></p>
+<h4>Documentation</h4>
+
+<p>Please, read the docs <a href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/">here</a>.</p>
+
+<h4>Questions or bug reports?</h4>
+
+<p>Head over to our <a href="https://github.com/wowthemesnet/mediumish-theme-jekyll">Github repository</a>!</p>
+
+</div>
+
+<div class="col-md-4">
+
+<div class="sticky-top sticky-top-80">
+<h5>Buy me a coffee</h5>
+
+<p>Thank you for your support! Your donation helps me to maintain and improve <a target="_blank" href="https://github.com/wowthemesnet/mediumish-theme-jekyll">Mediumish <i class="fab fa-github"></i></a>.</p>
+
+<a target="_blank" href="https://www.wowthemes.net/donate/" class="btn btn-danger">Buy me a coffee</a> <a target="_blank" href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/" class="btn btn-warning">Documentation</a>
+
+</div>
+</div>
+</div>
