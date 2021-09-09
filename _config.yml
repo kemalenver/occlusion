@@ -13,14 +13,14 @@ permalink: /:title/
 
 # Authors
 authors:
-  sal:
+  kemal:
     name: Kemal
     display_name: Kemal
-    gravatar: e56154546cf4be74e393c62d1ae9f9d4
+    gravatar: ecd9b5d3527c4cfa71fcb0e0f4ebfe99
     email: kemalenver@gmail.com
     web: https://www.occlusion.io
     twitter: https://twitter.com/kemalenver
-    description: "Software engineer from the UK.  Specialising in mobile developent. Conservator of software. Passi interest in 3D rendering."
+    description: "Software engineer from the UK.  Specialising in mobile development. Conservator of software. Passi interest in 3D rendering."
   
 # Plugins
 plugins:

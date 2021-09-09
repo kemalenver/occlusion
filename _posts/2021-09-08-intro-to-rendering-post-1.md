@@ -1,4 +1,17 @@
-# Rendering in Metal.
+---
+layout: post
+title:  "Rendering with Metal."
+author: kemal
+categories: [ rendering, tutorial, metal, rendering_series ]
+tags: [red, yellow]
+image: assets/images/rendering-metal-post-1/rendering-1.png
+description: "An intro to the modern 3d rendering series."
+featured: false
+hidden: false
+rating: 4.8
+---
+
+# Rendering with Metal.
 Many things have changed in the graphics world over the past thirty years.  Hardware is more powerful, does more, and developer tools have advanced.  These changes have led to fundamental changes in how APIs work and it can be incredibly daunting to know where to start.  Although APIs have become more complex there are some core mathematical concepts that will always remain valid, no matter what APIs are available.
 
 This series of blogs will give a brief overview of where we have come from, where we are now and why, and how to get set up and going in a pragmatic way so that you’re ready for learning more advanced concepts and techniques when you need to. 
